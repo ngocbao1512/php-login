@@ -1,2 +1,2 @@
 # php-login
-section-cookie
+session-cookie
